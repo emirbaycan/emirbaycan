@@ -23,7 +23,7 @@ I constantly experiment with new technologies, build side projects, and optimize
 
 ---
 
-## 💼 Projects I’ve Built
+## 💼 Platforms I’ve Built
 
 ### 🌐 Web Platforms
 
