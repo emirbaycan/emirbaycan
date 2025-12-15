@@ -1,50 +1,73 @@
-# 👋 Hi, I'm Emir! 
+# 👋 Hi, I'm Emir!
 
-**Full Stack Developer | Technology Enthusiast | Problem Solver**
+**Full Stack Developer | Mobile App Builder | Problem Solver | Tech Entrepreneur**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate software developer with hands-on experience in web, mobile, and backend development. I love building efficient, scalable solutions and exploring new technologies—from system-level programming to modern frameworks.  
-I enjoy solving complex problems, automating workflows, and constantly learning to stay ahead in the tech world.
+I'm a passionate full stack developer who builds scalable apps, high-traffic websites, automation tools, and modern digital products. From backend systems to mobile apps and serverless architectures, I enjoy solving complex technical problems and turning ideas into real, production-ready products.
+
+I constantly experiment with new technologies, build side projects, and optimize everything for performance, reliability, and business impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (React, Node.js), TypeScript, Python, PHP, Go, Rust, C/C++
-- **Web:** React, Angular, Vue.js, Express.js, Django, Flask
-- **Mobile:** React Native, Android (Java/Kotlin)
-- **Backend:** Node.js, Django, Go, PHP, Rust, C (performance modules)
-- **Database:** MySQL, PostgreSQL, MongoDB, Redis
-- **DevOps:** Docker, GitHub Actions, AWS, DigitalOcean, Linux/Unix
+* **Languages:** JavaScript/TypeScript, Python, PHP, Go, Java, Kotlin, Rust, C/C++
+* **Web:** React, Angular, Vue, Next.js, Express, Django, Flask
+* **Mobile:** React Native, Android (Java/Kotlin)
+* **Backend:** Node.js, Go, Django REST, Laravel, Rust micro-services
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+* **DevOps:** Docker, GitHub Actions, AWS, GCP, DigitalOcean, Linux
+
+---
+
+## 💼 Projects I’ve Built
+
+### 🌐 Web Platforms
+
+* **[whats-your-iq.com](http://whats-your-iq.com/)**
+  A multilingual online IQ testing platform with analytics, instant scoring, and mobile-friendly UI.
+
+* **[file-converter-free.com](https://file-converter-free.com/)**
+  A fast, free browser-based file converter supporting dozens of document, image, and media formats.
+
+* **[qr-bar-code.com](https://qr-bar-code.com/)**
+  A simple, fast web tool for generating and scanning QR codes and barcodes.
+
+---
+
+### 📱 Mobile Apps
+
+* **PDF & EPUB Reader-Editor**
+  A lightweight offline PDF/EPUB reader with editing tools.
+  Google Play: [https://play.google.com/store/apps/details?id=com.pdfepub.readereditor](https://play.google.com/store/apps/details?id=com.pdfepub.readereditor)
+
+* **QR & Barcode Scanner**
+  A high-accuracy scanner with history, generator, and multi-format support.
+  Google Play: [https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner](https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner)
 
 ---
 
 ## 📈 What Makes Me Different
 
-- **Low-level & High-level:** I’m comfortable both writing backend APIs and diving into C/Rust for high-performance modules.
-- **Security & Automation:** Interested in cybersecurity, automation, and scalable architectures.
-- **Continuous Learning:** I routinely build side projects, contribute to open source, and experiment with new tech stacks.
+* I work comfortably from high-level apps down to low-level C/Rust performance modules.
+* I blend engineering with business: scalability, monetization, and speed matter in every project.
+* I love automation, system design, and building products that work at global scale.
 
 ---
 
 ## 🏆 Career Goals
 
-- Contribute to impactful, global-scale projects
-- Master high-performance and distributed systems
-- Always improve—myself, my code, my team, and my community
+* Build and scale products used by millions
+* Master distributed systems & high-performance architectures
+* Improve myself, my code, and my teams continuously
 
 ---
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/emirbaycan/)
-- [Personal Website](https://emirbaycan.com.tr/)
-- [GitHub](https://github.com/emirbaycan)
-
----
-
-_Thanks for visiting my profile! I'm always open to collaborations, challenging opportunities, or just a good tech chat. Let's build something amazing together!_
-
+* **LinkedIn:** [https://www.linkedin.com/in/emirbaycan/](https://www.linkedin.com/in/emirbaycan/)
+* **Website:** [https://emirbaycan.com.tr/](https://emirbaycan.com.tr/)
+* **GitHub:** [https://github.com/emirbaycan](https://github.com/emirbaycan)
