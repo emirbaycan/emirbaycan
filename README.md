@@ -36,17 +36,24 @@ I constantly experiment with new technologies, build side projects, and optimize
 * **[qr-bar-code.com](https://qr-bar-code.com/)**
   A simple, fast web tool for generating and scanning QR codes and barcodes.
 
+* **[whennotesfly.com](https://whennotesfly.com/)**
+  An editorial knowledge platform focused on concepts, explainers, mental models, technology, and decision-making. Built as a long-term authority site with structured, evergreen content.
+
 ---
 
 ### 📱 Mobile Apps
 
 * **PDF & EPUB Reader-Editor**
-  A lightweight offline PDF/EPUB reader with editing tools.
-  Google Play: [https://play.google.com/store/apps/details?id=com.pdfepub.readereditor](https://play.google.com/store/apps/details?id=com.pdfepub.readereditor)
+  A lightweight offline PDF/EPUB reader with editing tools.  
+  Google Play: https://play.google.com/store/apps/details?id=com.pdfepub.readereditor
 
 * **QR & Barcode Scanner**
-  A high-accuracy scanner with history, generator, and multi-format support.
-  Google Play: [https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner](https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner)
+  A high-accuracy scanner with history, generator, and multi-format support.  
+  Google Play: https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner
+
+* **VSCoder Copilot**
+  A companion app for interacting with AI coding assistants, enabling prompt-based communication with code editors and developer workflows.
+
 
 ---
 
