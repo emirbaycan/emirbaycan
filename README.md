@@ -43,18 +43,21 @@ I constantly experiment with new technologies, build side projects, and optimize
 
 ### 📱 Mobile Apps
 
-* **PDF & EPUB Reader-Editor**
+* **PDF & EPUB Reader-Editor**  
   A lightweight offline PDF/EPUB reader with editing tools.  
-  Google Play: https://play.google.com/store/apps/details?id=com.pdfepub.readereditor
+  Google Play: [Android](https://play.google.com/store/apps/details?id=com.pdfepub.readereditor)
 
-* **QR & Barcode Scanner**
+* **QR & Barcode Scanner**  
   A high-accuracy scanner with history, generator, and multi-format support.  
-  Google Play: https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner
+  Google Play: [Android](https://play.google.com/store/apps/details?id=com.emirbaycan.qrbarcode.scanner)
 
-* **VSCoder Copilot**
+* **Phone Health Checker**  
+  A diagnostic app that analyzes battery health, sensors, temperature, and device status using real hardware data.  
+  Google Play: [Android](https://play.google.com/store/apps/details?id=com.emirbaycan.phonehealthchecker)
+
+* **VSCoder Copilot**  
   A companion app for interacting with AI coding assistants, enabling prompt-based communication with code editors and developer workflows.
-
-
+  Google Play: [Android](https://play.google.com/store/apps/details?id=com.emirbaycan.vscodercopilot)
 ---
 
 ## 📈 What Makes Me Different
