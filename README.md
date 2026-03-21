@@ -56,11 +56,11 @@ I constantly experiment with new technologies, build side projects, and optimize
   Google Play: [Android](https://play.google.com/store/apps/details?id=com.emirbaycan.phonehealthchecker)
 
 * **VSCoder Copilot**  
-  A companion app for interacting with AI coding assistants, enabling prompt-based communication with code editors and developer workflows.
+  A companion app for interacting with AI coding assistants, enabling prompt-based communication with code editors and developer workflows.   
   Google Play: [Android](https://play.google.com/store/apps/details?id=com.emirbaycan.vscodercopilot)
 
 * **True File Locker**  
-  Secure file protection app that locks photos, videos, and documents with encryption and privacy-focused access controls.
+  Secure file protection app that locks photos, videos, and documents with encryption and privacy-focused access controls.   
   Google Play: [Android](https://play.google.com/store/apps/details?id=com.truefilelocker)
 
 ---
