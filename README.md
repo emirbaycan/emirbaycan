@@ -39,6 +39,21 @@ I constantly experiment with new technologies, build side projects, and optimize
 * **[whennotesfly.com](https://whennotesfly.com/)**
   An editorial knowledge platform focused on concepts, explainers, mental models, technology, and decision-making. Built as a long-term authority site with structured, evergreen content.
 
+* **[evolang.info](https://evolang.info/)**  
+  A language-focused platform exploring communication, linguistics, and expression systems with scalable informational content.
+
+* **[strangeanimals.info](https://strangeanimals.info/)**  
+  A discovery-driven site covering rare and unusual animals, optimized for curiosity-based traffic and long-tail SEO.
+
+* **[corpy.xyz](https://corpy.xyz/)**  
+  A developing platform focused on companies, regulations, and business ecosystems with potential expansion into listings and data.
+
+* **[pass4-sure.us](https://pass4-sure.us/)**  
+  A repurposed authority domain targeting certifications, job interviews, and career development, leveraging existing backlinks.
+
+* **[downundercafe.com](https://downundercafe.com/)**  
+  A geo-focused cafe and lifestyle discovery platform with local SEO and directory expansion potential.
+
 ---
 
 ### 📱 Mobile Apps
@@ -62,6 +77,10 @@ I constantly experiment with new technologies, build side projects, and optimize
 * **True File Locker**  
   Secure file protection app that locks photos, videos, and documents with encryption and privacy-focused access controls.   
   Google Play: [Android](https://play.google.com/store/apps/details?id=com.truefilelocker)
+
+* **Endless Dino Run Evolved**  
+  A fast-paced endless runner game designed for mobile performance and engagement.  
+  Google Play: [Android](https://play.google.com/store/apps/details?id=com.emirbaycan.endlessdinorunevolved)
 
 ---
 
