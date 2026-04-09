@@ -27,16 +27,16 @@ I constantly experiment with new technologies, build side projects, and optimize
 
 ### 🌐 Web Platforms
 
-* **[whats-your-iq.com](http://whats-your-iq.com/)**
+* **[whats-your-iq.com](http://whats-your-iq.com/)**  
   A multilingual online IQ testing platform with analytics, instant scoring, and mobile-friendly UI.
 
-* **[file-converter-free.com](https://file-converter-free.com/)**
+* **[file-converter-free.com](https://file-converter-free.com/)**  
   A fast, free browser-based file converter supporting dozens of document, image, and media formats.
 
-* **[qr-bar-code.com](https://qr-bar-code.com/)**
+* **[qr-bar-code.com](https://qr-bar-code.com/)**  
   A simple, fast web tool for generating and scanning QR codes and barcodes.
 
-* **[whennotesfly.com](https://whennotesfly.com/)**
+* **[whennotesfly.com](https://whennotesfly.com/)**  
   An editorial knowledge platform focused on concepts, explainers, mental models, technology, and decision-making. Built as a long-term authority site with structured, evergreen content.
 
 * **[evolang.info](https://evolang.info/)**  
