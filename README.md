@@ -23,12 +23,15 @@ I constantly experiment with new technologies, build side projects, and optimize
 
 ---
 
-## 💼 Platforms I own
+## 💼 Platforms I operate
 
 ### 🌐 Web Platforms
 
 * **[whats-your-iq.com](http://whats-your-iq.com/)**  
   A multilingual online IQ testing platform with analytics, instant scoring, and mobile-friendly UI.
+
+* **[exhibition-stands.eu](https://exhibition-stands.eu/)**
+  A European-focused platform connecting businesses with exhibition stand solutions, trade show services, custom booth design, and event marketing resources. Built to serve companies participating in international exhibitions, conferences, and industry events across Europe.
 
 * **[file-converter-free.com](https://file-converter-free.com/)**  
   A fast, free browser-based file converter supporting dozens of document, image, and media formats.
