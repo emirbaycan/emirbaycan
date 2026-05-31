@@ -60,7 +60,8 @@ I constantly experiment with new technologies, build side projects, and optimize
 
 * **PDF & EPUB Reader-Editor**  
   A lightweight offline PDF/EPUB reader with editing tools.  
-  Google Play: [Android](https://play.google.com/store/apps/details?id=com.pdfepub.readereditor)
+  Google Play: [Android](https://play.google.com/store/apps/details?id=com.pdfepub.readereditor)   
+  App Store: [IOS](https://apps.apple.com/app/pdf-epub-reader-editor/id6761441916)
 
 * **QR & Barcode Scanner**  
   A high-accuracy scanner with history, generator, and multi-format support.  
