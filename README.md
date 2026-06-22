@@ -56,6 +56,19 @@ I constantly experiment with new technologies, build side projects, and optimize
 
 * **[downundercafe.com](https://downundercafe.com/)**  
   A geo-focused cafe and lifestyle discovery platform with local SEO and directory expansion potential.
+  
+* **[kalenux.com.tr](https://kalenux.com.tr/)**  
+  A developer-focused platform and framework ecosystem built around modern web development, automation, SSR, multilingual architecture, optimization, and scalable project tooling.   
+
+---
+
+## 🔮 Upcoming / In Development
+
+* **CitePep**
+  A planned citation, credibility, and contributor-focused platform designed to help people publish, verify, and connect useful expert contributions across the web.   
+
+* **Mirgent**
+  A business-oriented online presence growth platform focused on helping companies manage, improve, and scale their visibility across websites, content platforms, directories, and digital channels.   
 
 ---
 
